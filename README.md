@@ -1,7 +1,5 @@
 # INT202-middleExam
 
----
-
 ## Overview
 This is a Java-based web application designed as a middle exam project. The application features a simple user registration system and a prime number checker.
 
@@ -25,3 +23,5 @@ This is a Java-based web application designed as a middle exam project. The appl
 2. Open the project in your preferred IDE.
 3. Run the server.
 4. Access the application through `http://localhost:8080`.
+
+---
