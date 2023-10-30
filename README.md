@@ -18,10 +18,10 @@ This is a Java-based web application designed as a middle exam project. The appl
   - [ResultList](https://github.com/LynchzDEV/INT202-middleExam/blob/main/src/main/java/com/jinnawat/mid_exam_008/models/ResultList.java): Holds a list of `Result` objects.
   - [User](https://github.com/LynchzDEV/INT202-middleExam/blob/main/src/main/java/com/jinnawat/mid_exam_008/models/User.java): Holds user information.
 
+---
+
 ## How to Run
 1. Clone the repository.
 2. Open the project in your preferred IDE.
 3. Run the server.
 4. Access the application through `http://localhost:8080`.
-
----
